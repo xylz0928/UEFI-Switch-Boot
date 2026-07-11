@@ -1,5 +1,7 @@
 # Windows / Linux 双系统 UEFI 启动项切换工具
 
+[English Version | 英文说明](README_en.md)
+
 本工具提供一组脚本，用于在 **Windows** 与 **Ubuntu（或其他 Linux）** 双系统环境下，**单次修改下次启动项**，实现一键重启进入指定系统，无需每次手动按热键或修改 BIOS 顺序。
 
 ---
