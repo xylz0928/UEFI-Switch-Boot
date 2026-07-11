@@ -181,7 +181,7 @@ A: 可以，删除后下次运行会重新扫描。
 ## 📝 贡献与反馈
 
 欢迎提交 Issue 或 Pull Request 改进脚本。  
-项目地址：[GitHub 仓库链接](https://github.com/xylz0928/UEFI-Switch-Boot)
+项目地址：[GitHub xylz0928/UEFI-Switch-Boot](https://github.com/xylz0928/UEFI-Switch-Boot)
 
 ---
 
