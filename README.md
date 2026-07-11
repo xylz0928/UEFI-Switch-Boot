@@ -104,10 +104,10 @@
 1. 将 `switch-boot.sh` 下载到任意目录。
 2. 赋予执行权限：`chmod +x switch-boot.sh`
 3. 建议移动到 `PATH` 目录（如 `/usr/local/bin/`）并重命名为 `switch-boot`，以便直接调用：
-
+```bash
     sudo cp switch-boot.sh /usr/local/bin/switch-boot
     sudo chmod 755 /usr/local/bin/switch-boot
-
+```
 ### 使用方法
 
 运行脚本（必须使用 `sudo`）：
@@ -126,7 +126,7 @@
 4. 确认选择后，调用 `grub-reboot` 设置下次启动项，然后等待 3 秒后通过 `systemctl reboot -i` 重启系统。
 
 ### 运行示例
-```
+```bash
     tom@localhost:~$ sudo switch-boot 
     [sudo: authenticate] 密码：         
     
